@@ -36,8 +36,9 @@ Code is written in **C++** and follows clean, readable standards.
 ---
 
 ## 🌟 Author
-**Mohammed Shayaan**  
-📫 [GitHub Profile →](https://github.com/mhdshayaan)
+**Rizwi Shaan**  
+📫 [GitHub Profile →](https://github.com/Rizwii)
 
 > “Code it. Commit it. Ship it.” 🧠
+
 
