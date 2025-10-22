@@ -11,8 +11,8 @@
 | 📅 **Date** | 💻 **Lab Tasks** |
 |-------------|------------------|
 | 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_02-Task1-2/task1.c)<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_02-Task1-2/task2.c) |
-| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task1.c)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task_2.c)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task_3.c) |
-| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/mhdshayaan/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task_4.sh) |
+| 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task1.c)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task2.c)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task3.c) |
+| 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task4.sh) |
 
 ---
 
@@ -40,3 +40,4 @@ Code is written in **C++** and follows clean, readable standards.
 📫 [GitHub Profile →](https://github.com/mhdshayaan)
 
 > “Code it. Commit it. Ship it.” 🧠
+
