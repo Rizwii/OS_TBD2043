@@ -13,6 +13,10 @@
 | 25/10/02 | 🧩 [**Task 01 - System Calls of UNIX (opendir, readdir, closedir)**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_02-Task1-2/task1.c)<br>🔧 [**Task 02 - System Calls of UNIX (fork, getpid, exit)**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_02-Task1-2/task2.c) |
 | 25/10/09 | 🗂️ [**Task 01 - Simulation of cp Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task1.c)<br>📁 [**Task 02 - Simulation of ls Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task2.c)<br>🔍 [**Task 03 - Simulation of grep Command**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_09-Task1-2-3/task3.c) |
 | 25/10/16 | 💡 [**Task 01 - Shell Program: Even or Odd**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task1.sh)<br>🌙 [**Task 02 - Shell Program: Checking Leap Year**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task2.sh)<br>🧮 [**Task 03 - Shell Program: Factorial of a Number**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task3.sh)<br>🔁 [**Task 04 - Shell Program: Swap Two Numbers**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_16-Task1-2-3-4/task4.sh) |
+| 25/10/23 | 🥇 [**Task 01 - CPU Scheduling Algorithms - Priority**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_23-Task1-2-3-4/task1.c)<br>🔄 [**Task 02 - CPU Scheduling Algorithms - Round Robin**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_23-Task1-2-3-4/task2.c)<br>⏱️ [**Task 03 - CPU Scheduling Algorithms - FCFS**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_23-Task1-2-3-4/task3.c)<br>🤏 [Task 04 - CPU Scheduling Algorithms - SJF](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_23-Task1-2-3-4/task4.c) |
+| 25/10/30 | 🏭 [**Task 01 - Producer Consumer Problem Using Semaphores**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_30-Task-1-2/task1.c)<br> 🔗 [**Task 02 - IPC Using Shared Memory**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_10_30-Task-1-2/task2.c) |
+| 25/11/06 | 🛡️ [**Task 01 - Bankers Algorithm For Deadlock Avoidance**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_11_06-task-1-2-3/task1.c)<br> 🚨 [**Task 02 - Algorithm For Deadlock Detection**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_11_06-task-1-2-3/task2.c)<br> 🧵 [**Task 03 - Threading & Synchronization Applications**](https://github.com/Rizwii/OS_TBD2043/blob/main/25_11_06-task-1-2-3/task3.c) |
+
 
 ---
 
@@ -20,7 +24,7 @@
 
 🚀 This repository contains all **OS lab exercises** for Semester 2025.  
 Each task demonstrates understanding of data structures like `structs`, `matrices`, and `linked lists`.  
-Code is written in **C++** and follows clean, readable standards.
+Code is written in **C** and follows clean, readable standards.
 
 ---
 
@@ -38,6 +42,7 @@ Code is written in **C++** and follows clean, readable standards.
 ## 🌟 Author
 **Rizwi Shaan**  
 📫 [GitHub Profile →](https://github.com/Rizwii)
+
 
 
 
